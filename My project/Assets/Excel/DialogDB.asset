@@ -1,0 +1,192 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 8
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8495cb02cf9030f4097c0050b879b123, type: 3}
+  m_Name: DialogDB
+  m_EditorClassIdentifier: 
+  sheets:
+  - name: Dialoge
+    list:
+    - index: 0
+      speakerUIindex: 0
+      name: "\uC774\uB9841"
+      dialogue: "\uB2E4\uC774\uC5BC\uB85C\uADF8 \uD14C\uC2A4\uD2B8 \uD14C\uC2A4\uD2B8
+        \uD14C\uC2A4\uD2B8 \uD14C\uC2A4\uD2B8 001"
+      characterPath: None
+      tweenType: 0
+      nextindex: 1
+    - index: 1
+      speakerUIindex: 0
+      name: "\uC774\uB9842"
+      dialogue: "\uB2E4\uC774\uC5BC\uB85C\uADF8 \uD14C\uC2A4\uD2B8 \uD14C\uC2A4\uD2B8
+        \uD14C\uC2A4\uD2B8 \uD14C\uC2A4\uD2B8 002"
+      characterPath: None
+      tweenType: 0
+      nextindex: 2
+    - index: 2
+      speakerUIindex: 0
+      name: "\uC774\uB9843"
+      dialogue: "\uB2E4\uC774\uC5BC\uB85C\uADF8 \uD14C\uC2A4\uD2B8 \uD14C\uC2A4\uD2B8
+        \uD14C\uC2A4\uD2B8 \uD14C\uC2A4\uD2B8 003"
+      characterPath: None
+      tweenType: 0
+      nextindex: 3
+    - index: 3
+      speakerUIindex: 0
+      name: "\uC774\uB9844"
+      dialogue: "\uB2E4\uC774\uC5BC\uB85C\uADF8 \uD14C\uC2A4\uD2B8 \uD14C\uC2A4\uD2B8
+        \uD14C\uC2A4\uD2B8 \uD14C\uC2A4\uD2B8 004"
+      characterPath: None
+      tweenType: 0
+      nextindex: 4
+    - index: 4
+      speakerUIindex: 0
+      name: "\uC774\uB9845"
+      dialogue: "\uB2E4\uC774\uC5BC\uB85C\uADF8 \uD14C\uC2A4\uD2B8 \uD14C\uC2A4\uD2B8
+        \uD14C\uC2A4\uD2B8 \uD14C\uC2A4\uD2B8 005"
+      characterPath: None
+      tweenType: 0
+      nextindex: 5
+    - index: 5
+      speakerUIindex: 0
+      name: "\uC774\uB9846"
+      dialogue: "\uB2E4\uC774\uC5BC\uB85C\uADF8 \uD14C\uC2A4\uD2B8 \uD14C\uC2A4\uD2B8
+        \uD14C\uC2A4\uD2B8 \uD14C\uC2A4\uD2B8 006"
+      characterPath: None
+      tweenType: 0
+      nextindex: 6
+    - index: 6
+      speakerUIindex: 0
+      name: "\uC774\uB9847"
+      dialogue: "\uB2E4\uC774\uC5BC\uB85C\uADF8 \uD14C\uC2A4\uD2B8 \uD14C\uC2A4\uD2B8
+        \uD14C\uC2A4\uD2B8 \uD14C\uC2A4\uD2B8 007"
+      characterPath: None
+      tweenType: 0
+      nextindex: 7
+    - index: 7
+      speakerUIindex: 0
+      name: "\uC774\uB9848"
+      dialogue: "\uB2E4\uC774\uC5BC\uB85C\uADF8 \uD14C\uC2A4\uD2B8 \uD14C\uC2A4\uD2B8
+        \uD14C\uC2A4\uD2B8 \uD14C\uC2A4\uD2B8 008"
+      characterPath: None
+      tweenType: 0
+      nextindex: 8
+    - index: 8
+      speakerUIindex: 0
+      name: "\uC774\uB9849"
+      dialogue: "\uB2E4\uC774\uC5BC\uB85C\uADF8 \uD14C\uC2A4\uD2B8 \uD14C\uC2A4\uD2B8
+        \uD14C\uC2A4\uD2B8 \uD14C\uC2A4\uD2B8 009"
+      characterPath: None
+      tweenType: 0
+      nextindex: 9
+    - index: 9
+      speakerUIindex: 0
+      name: "\uC774\uB98410"
+      dialogue: "\uB2E4\uC774\uC5BC\uB85C\uADF8 \uD14C\uC2A4\uD2B8 \uD14C\uC2A4\uD2B8
+        \uD14C\uC2A4\uD2B8 \uD14C\uC2A4\uD2B8 010"
+      characterPath: None
+      tweenType: 0
+      nextindex: 10
+    - index: 10
+      speakerUIindex: 0
+      name: "\uC774\uB98411"
+      dialogue: "\uB2E4\uC774\uC5BC\uB85C\uADF8 \uD14C\uC2A4\uD2B8 \uD14C\uC2A4\uD2B8
+        \uD14C\uC2A4\uD2B8 \uD14C\uC2A4\uD2B8 011"
+      characterPath: None
+      tweenType: 0
+      nextindex: 11
+    - index: 11
+      speakerUIindex: 0
+      name: "\uC774\uB98412"
+      dialogue: "\uB2E4\uC774\uC5BC\uB85C\uADF8 \uD14C\uC2A4\uD2B8 \uD14C\uC2A4\uD2B8
+        \uD14C\uC2A4\uD2B8 \uD14C\uC2A4\uD2B8 012"
+      characterPath: None
+      tweenType: 0
+      nextindex: 12
+    - index: 12
+      speakerUIindex: 0
+      name: "\uC774\uB98413"
+      dialogue: "\uB2E4\uC774\uC5BC\uB85C\uADF8 \uD14C\uC2A4\uD2B8 \uD14C\uC2A4\uD2B8
+        \uD14C\uC2A4\uD2B8 \uD14C\uC2A4\uD2B8 013"
+      characterPath: None
+      tweenType: 0
+      nextindex: 13
+    - index: 13
+      speakerUIindex: 0
+      name: "\uC774\uB98414"
+      dialogue: "\uB2E4\uC774\uC5BC\uB85C\uADF8 \uD14C\uC2A4\uD2B8 \uD14C\uC2A4\uD2B8
+        \uD14C\uC2A4\uD2B8 \uD14C\uC2A4\uD2B8 014"
+      characterPath: None
+      tweenType: 0
+      nextindex: 14
+    - index: 14
+      speakerUIindex: 0
+      name: "\uC774\uB98415"
+      dialogue: "\uB2E4\uC774\uC5BC\uB85C\uADF8 \uD14C\uC2A4\uD2B8 \uD14C\uC2A4\uD2B8
+        \uD14C\uC2A4\uD2B8 \uD14C\uC2A4\uD2B8 015"
+      characterPath: None
+      tweenType: 0
+      nextindex: 15
+    - index: 15
+      speakerUIindex: 0
+      name: "\uC774\uB98416"
+      dialogue: "\uB2E4\uC774\uC5BC\uB85C\uADF8 \uD14C\uC2A4\uD2B8 \uD14C\uC2A4\uD2B8
+        \uD14C\uC2A4\uD2B8 \uD14C\uC2A4\uD2B8 016"
+      characterPath: None
+      tweenType: 0
+      nextindex: 16
+    - index: 16
+      speakerUIindex: 0
+      name: "\uC774\uB98417"
+      dialogue: "\uB2E4\uC774\uC5BC\uB85C\uADF8 \uD14C\uC2A4\uD2B8 \uD14C\uC2A4\uD2B8
+        \uD14C\uC2A4\uD2B8 \uD14C\uC2A4\uD2B8 017"
+      characterPath: None
+      tweenType: 0
+      nextindex: 17
+    - index: 17
+      speakerUIindex: 0
+      name: "\uC774\uB98418"
+      dialogue: "\uB2E4\uC774\uC5BC\uB85C\uADF8 \uD14C\uC2A4\uD2B8 \uD14C\uC2A4\uD2B8
+        \uD14C\uC2A4\uD2B8 \uD14C\uC2A4\uD2B8 018"
+      characterPath: None
+      tweenType: 0
+      nextindex: 18
+    - index: 18
+      speakerUIindex: 0
+      name: "\uC774\uB98419"
+      dialogue: "\uB2E4\uC774\uC5BC\uB85C\uADF8 \uD14C\uC2A4\uD2B8 \uD14C\uC2A4\uD2B8
+        \uD14C\uC2A4\uD2B8 \uD14C\uC2A4\uD2B8 019"
+      characterPath: None
+      tweenType: 0
+      nextindex: 19
+    - index: 19
+      speakerUIindex: 0
+      name: "\uC774\uB98420"
+      dialogue: "\uB2E4\uC774\uC5BC\uB85C\uADF8 \uD14C\uC2A4\uD2B8 \uD14C\uC2A4\uD2B8
+        \uD14C\uC2A4\uD2B8 \uD14C\uC2A4\uD2B8 020"
+      characterPath: None
+      tweenType: 0
+      nextindex: 20
+    - index: 20
+      speakerUIindex: 0
+      name: "\uC774\uB98421"
+      dialogue: "\uB2E4\uC774\uC5BC\uB85C\uADF8 \uD14C\uC2A4\uD2B8 \uD14C\uC2A4\uD2B8
+        \uD14C\uC2A4\uD2B8 \uD14C\uC2A4\uD2B8 021"
+      characterPath: None
+      tweenType: 0
+      nextindex: -100
+    - index: 0
+      speakerUIindex: 0
+      name: 
+      dialogue: 
+      characterPath: 
+      tweenType: 0
+      nextindex: 0

@@ -984,10 +984,11 @@ MonoBehaviour:
     tweenType: 0
     nextindex: -100
   DialogInit: 1
-  dialogsDB: 0
+  dialogsDB: 1
   currentDialogIndex: -1
   currentSpeakerIndex: 0
   typingSpeed: 0.1
+  entity_dialouge: {fileID: 11400000, guid: 7f09670eb42e4cc448b181ac19e9ca70, type: 2}
 --- !u!4 &1841028919
 Transform:
   m_ObjectHideFlags: 0
